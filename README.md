@@ -14,7 +14,7 @@ The Netflix SQL Project focuses on analyzing a dataset containing Netflix movies
 
 5.Create views and optimize queries for better performance.
 
-#Outcomes
+# Outcomes
 
 1.Created a structured SQL analysis pipeline for Netflix content.
 
